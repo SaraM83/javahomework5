@@ -1,0 +1,152 @@
+
+.container {
+    border-color: black;
+    background-color: brown;
+    width: 400px;
+    margin: auto; 
+}
+
+.box1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: brown;
+    margin: 0px;
+}
+
+.loc_button {
+    font-family: 'Nunito', sans-serif; 
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 0px 0px 25px;
+    letter-spacing: 2px;
+    border-style: none;
+    background-color: brown;
+    color: #FFE9C1;
+    outline: none;
+}
+
+.location {
+    background-color: brown;
+    margin-top: 0px;
+    border-top: solid 1px #A53F3F;
+}
+
+.loc-text, .music-text, .tend-text {
+    font-family: 'Nunito', sans-serif;; 
+    font-size: 16px;
+    font-weight: normal;
+    color: #FFE9C1;
+    letter-spacing: 2px;
+    padding: 10px 0px 15px 10px;
+    margin: 0px;
+}
+
+.box2 {
+    background-color: #A53F3F;
+    display: flex;
+    flex-direction: row;
+}
+
+.music {
+    background-color: #A53F3F;
+    border-top: solid 1px rgb(186, 112, 112);
+}
+
+.pin-img, .music-img, .notes-img, .tend-img, .books-img {
+    width: 50px;
+    height: 50px;
+    padding: 15px 0px 15px 15px;
+}
+
+.music_button {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 0px 0px 25px;
+    letter-spacing: 2px;
+    border-style: none;
+    background-color: #A53F3F;
+    color: #FFE9C1;
+    outline: none;
+}
+
+.box3 {
+    background-color: #F4CE74;
+    display: flex;
+    flex-direction: row;
+}
+
+.notes {
+    background-color: #F4CE74;
+    border-top: solid 1px rgb(242, 193, 80);
+}
+
+.notes_button {
+    font-family: 'Nunito', sans-serif; 
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 0px 0px 25px;
+    letter-spacing: 2px;
+    border-style: none;
+    background-color: #F4CE74;
+    color: #620808;
+    outline: none;
+}
+
+.notes-text, .books-text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #620808;
+    letter-spacing: 2px;
+    padding: 10px 0px 15px 10px;
+    margin: 0px; 
+}
+
+.box4 {
+    background: #FFE9C1;
+    display: flex;
+    flex-direction: row;
+}
+
+.books_button {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 0px 0px 25px;
+    letter-spacing: 2px;
+    border-style: none;
+    background-color: #FFE9C1;
+    color: #620808;
+    outline: none;
+}
+
+.books {
+    background-color: #FFE9C1;
+    border-top: solid 1px rgb(237, 216, 178);
+}
+
+.box5 {
+    background: #D5441C;
+    display: flex;
+    flex-direction: row;
+}
+
+.tend_button {
+    font-family: 'Nunito', sans-serif; 
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 0px 0px 25px;
+    letter-spacing: 2px;
+    border-style: none;
+    background-color: #D5441C;
+    color: #FFE9C1;
+    outline: none;
+}
+
+.tend {
+    background: #D5441C;
+    border-top: solid 1px rgb(191, 61, 25); 
+}
+
